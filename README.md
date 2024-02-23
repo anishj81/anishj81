@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Fullstack Web Development course from a coaching institute
 - 💞️ I’m looking to collaborate on Software Company
-- 📫 How to reach me anishj81096@gmail.com
+- 📫 How to reach me 0112cs201025@gmail.com
 
 <!---
 anishj81/anishj81 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
